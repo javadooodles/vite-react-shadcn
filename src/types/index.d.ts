@@ -7,8 +7,7 @@ export type SiteConfig = {
   siteUrl: string;
   ogImage: string;
   links: {
-    github: string;
     twitter: string;
-    deploy: string;
+    digitalMarketing: string;
   };
 }
